@@ -1,0 +1,27 @@
+Questions:
+
+Spatial Analysis:
+Q1 Where are the geographical hotspots for reported crimes?
+Ans: Los angles downtown has the higest reported crimes
+ 
+
+Victim Demographics:
+Q2 What is the distribution of victim ages in reported crimes?
+ANS: From our analysis of histogram :
+    i)Victim age between 0 to 5 have frequency of 90 which is very high
+    ii) ages between 25 to 35 are more prone to be attacked with frequency of about 60 
+    iii) all other age group (5-25) and (35-80) have frequency of less than 20 
+
+Q3 Is there a significant difference in crime rates between male and female victims?
+Ans: Crime rate against male is more than female , male has count of above 250 and female has count of above 150 
+     Crime rate against male is about 60% more than female.
+ 
+
+Location Analysis:
+Q4 Where do most crimes occur based on the "Location" column?
+Ans: Location where most crime occur are  800 N ALAMEDA ST,700 W 7TH ST, 1100 S FIGUEROA ST ,300 E 5TH ST
+ 
+
+Crime Code Analysis:
+Q5 What is the distribution of reported crimes based on Crime Code?
+Ans: The code 330,624,440,442,510 have the highest crime and while code 343,666,920 have the lowest crime  
